@@ -1,4 +1,6 @@
 # :globe_with_meridians: React Exercises  
+
+Here are some React exercises I worked on to learn this language.  
   
 ## Description for Each Exercise  
   
