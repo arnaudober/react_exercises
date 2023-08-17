@@ -1,5 +1,9 @@
 # :globe_with_meridians: React Exercises  
   
+## Description for Each Exercise  
+  
+### 1. Product list  
+  
 > **Note**
 > Created with CodeSandbox
 
